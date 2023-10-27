@@ -88,7 +88,7 @@ const Map = () => {
       image: new Circle({
         radius: 12,
         fill: new Fill({ color: "rgba(241, 60, 32 , 0.3)" }),
-        // animation: blink 1s linear infinite,
+         
       }),
     })
 
