@@ -321,7 +321,7 @@ const AttributeTable = ({
 
         setStartEditing(false)
         if (updateResult.length === 0) {
-          // Handle the case when coordinates are empty
+          // Handle the case when coordinates are empty //
           setNotification( 'Nothing get from server ...')
           return
         }
